@@ -1,0 +1,12 @@
+﻿id;typ;nazev;sebratelna;mistnost;popis;pozaduje
+0;vec;kladivo;1;1;;
+1;vec;nuzky;1;6;;
+2;vec;leky;1;3;;
+3;osoba;Jirka;0;8;chirurg;1
+4;osoba;Hanka;0;3;sestricka;2
+5;osoba;Franta;0;3;údržbář;0
+6;vec;obvaz;1;5;;
+7;vec;rohlík;1;7;;
+8;osoba;Pepík;0;5;kluk;7
+9;vec;ponožka;1;7;;
+10;osoba;Jarmila;0;4;babka;9

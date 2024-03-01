@@ -1,0 +1,10 @@
+﻿id;nazev;sever;zapad;jih;vychod
+0;Traumabox;-1;-1;3;1
+1;Sesterna;-1;0;4;2
+2;Recepce;-1;1;5;-1
+3;Rentgen;0;-1;6;4
+4;Vnitroblok;1;3;7;5
+5;Toalety;2;4;8;-1
+6;JIP;3;-1;-1;7
+7;Bufet;4;6;-1;8
+8;operacni Sal;5;7;-1;-1
